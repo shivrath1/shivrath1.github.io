@@ -10,7 +10,7 @@ I'm a software engineer based in Auckland, New Zealand, with 9+ years of experie
 
 ### Experience and background
 
-I have worked on enterprise application modernisation, an AIOps platform, cloud delivery workflows and semiconductor research. I hold a Master's in Computer Engineering, am Microsoft Certified: Azure Administrator Associate (AZ-104), and am currently pursuing a Master's in Software Engineering in Auckland.
+I have worked on enterprise application modernisation, an AIOps platform, cloud delivery workflows and semiconductor research. I hold a Master's in Computer Engineering, am Microsoft Certified: Azure Administrator Associate (AZ-104).
 
 I enjoy turning complex engineering problems into practical solutions and explaining the reasoning behind how systems are built and operated.
 
